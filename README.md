@@ -7,7 +7,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet READ
 ## Installation
 Projeyi klonlayın :
 ```
-https://github.com/xxmehmetali/kodluyoruzilkrepo
+https://github.com/AliMuratAta/kodluyoruzilkrepo.git
 ```
 ## Usage
 Klonlamadan sonra visual studio ile açın.
